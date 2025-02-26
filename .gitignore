@@ -8,5 +8,6 @@ data/
 
 # Ignore models
 models/train_BCNN_R_Leaky/
+models/train_BCNN_R_Leaky_40/*
 models/train_BCNN_Simple_50/
 
